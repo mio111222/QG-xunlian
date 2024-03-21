@@ -1,0 +1,8 @@
+使用IDEA编写，使用druid-1.1.21.jar和mysql-connect-j-8.3.0.jar
+主运行文件在JDBC----(jdbc-demo)----src----test----CRUD
+数据池连接在src-----druid----test
+mysql的设置在src----pojo----login
+druid连接文件在src-----druid.properties
+sql的查询文件在JDBC----out----production
+这次作业完成了CRUD utils的编写，运用到了druid的数据库连接池
+程序运行后输入数字选择功能，输入0退出运行
