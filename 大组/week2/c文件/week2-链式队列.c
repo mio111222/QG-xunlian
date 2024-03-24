@@ -2,8 +2,6 @@
 #include<stdlib.h>
 #define MAXQUEUE 11
 
-//循环队列结构
-
 typedef struct Aqueue          //链式队列
 {
     void* data[MAXQUEUE];
